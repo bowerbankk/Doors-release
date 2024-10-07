@@ -1,0 +1,7 @@
+CHANGES IN 1.5.5:
+- add core type to order summary printout
+- add a place to print name to order summary printout
+- add "make or buy" attribute to door
+- add make or buy to purchase sheet printout
+- add budgeted labour hours attribute to door
+- add budgeted labour hours to purchase sheet printout
