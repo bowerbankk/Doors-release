@@ -1,0 +1,4 @@
+Changes in 1.6.0:
+- add search box to filter orders by order name
+- allow adding hardware (hinge, lever, jamb, or other) to an order, independent of any door
+- change layout of edit door page
