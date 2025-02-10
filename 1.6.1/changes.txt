@@ -1,0 +1,2 @@
+Changes in 1.6.1:
+- add weather strip to order summary printout
