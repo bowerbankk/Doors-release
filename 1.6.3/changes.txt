@@ -1,0 +1,2 @@
+Changes in 1.6.3:
+- added option to preview printouts for orders

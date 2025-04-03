@@ -1,2 +1,0 @@
-Changes in 1.6.2:
-- move delete and open buttons further apart on Saved Orders page
